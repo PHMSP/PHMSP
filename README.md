@@ -1,3 +1,5 @@
+📚💻⚙️🎮⚽
+
 ## Pedro Maranhão (PHMSP) Analysis and Systems Development
 
 <div align="center">
