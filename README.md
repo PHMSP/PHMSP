@@ -1,6 +1,8 @@
 📚💻⚙️🎮⚽
 
-## Pedro Maranhão (PHMSP) Analysis and Systems Development
+## Pedro Maranhão (PHMSP) | DevOps 
+Systems Analysis and Development
+
 
 <div align="center">
   <a href="https://github.com/PHMSP">
@@ -9,21 +11,23 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png">
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png">
+  <img align="center" alt="k8s" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker-moby.png">
+  <img align="center" alt="k8s" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/kubernetes-dashboard.png">
+  <img align="center" alt="AKS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/prometheus.png">
+  <img align="center" alt="AKS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/grafana.png">
+  <img align="center" alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/terraform.png">
+  <img align="center" alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/arggocd.png">
+  <img align="center" alt="Aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/aws.png">
+  <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/azure.png">
+
 </div>
   
-  
   ##
-
 
   <div> 
   <a href = "pedromaranhao92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedromaranhao92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/PHMSP/PHMSP/blob/output/github-contribution-grid-snake.svg)
  
 </div>
