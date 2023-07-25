@@ -1,36 +1,21 @@
-📚💻⚙️🎮⚽
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PHMSP&show_icons=true&count_private=true&hide_border=true" width="50%"/>
+<h3 class="mt-n3">Hi there 👋</h3>
 
-## Pedro Maranhão (PHMSP) | DevOps 
+I'm a passionated 📚💻⚙️🎮⚽
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png">
-  <img align="center" alt="k8s" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker-moby.png">
-  <img align="center" alt="k8s" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/kubernetes-dashboard.png">
-  <img align="center" alt="AKS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/prometheus.png">
-  <img align="center" alt="AKS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/grafana.png">
-  <img align="center" alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/terraform.png">
-  <img align="center" alt="Terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/arggocd.png">
-</div>
+The DevOps guy
 
-Systems Analysis and Development
+Always willing to learn new things.
 
-<div align="center">
-  <a href="https://github.com/PHMSP">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PHMSP&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMSP&size_weight=0.5&count_weight=0.5"/>
-</div>
-    
-## CLOUD PROVIDERS 
-<div>
-    <img align="center" alt="Aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/aws.png">
-  <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/azure.png">
-  </div>
-  
-  ##
+### 📫 How to reach me
 
   <div> 
   <a href = "pedromaranhao92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedromaranhao92/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+
+### 🏅Certifications:
+
+![](https://images.credly.com/size/220x220/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)
+![](https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+![](https://images.credly.com/size/220x220/images/7fa91a10-3cbe-48fb-bd0e-c3e4cf27065f/image.png)
